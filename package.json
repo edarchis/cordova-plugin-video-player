@@ -9,19 +9,12 @@
       "ios"
     ]
   },
-  "engines": {
-    "cordovaDependencies": {
-      "2.0.0": {
-        "cordova": ">100"
-      }
-    }
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moust/cordova-plugin-videoplayer.git"
+    "url": "https://github.com/edarchis/cordova-plugin-video-player.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -34,7 +27,7 @@
   "author": "Quentin Aupetit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/moust/cordova-plugin-videoplayer/issues"
+    "url": "https://github.com/edarchis/cordova-plugin-video-player/issues"
   },
-  "homepage": "https://github.com/moust/cordova-plugin-videoplayer#readme"
+  "homepage": "https://github.com/edarchis/cordova-plugin-video-player#readme"
 }
